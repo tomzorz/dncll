@@ -1,0 +1,2 @@
+# dncll
+DotNetCoreLicenseLister
